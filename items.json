@@ -1,0 +1,350 @@
+[
+  {
+    "name": "T-bone steak",
+    "weight": 0.024242,
+    "categorie_id": 1,
+    "id": 1
+  },
+  {
+    "name": "Ground beef",
+    "weight": 0.024242,
+    "categorie_id": 1,
+    "id": 2
+  },
+  {
+    "name": "Sausage",
+    "weight": 0.035468,
+    "categorie_id": 1,
+    "id": 3
+  },
+  {
+    "name": "Frying chicken",
+    "weight": 0.038263,
+    "categorie_id": 1,
+    "id": 4
+  },
+  {
+    "name": "Tuna",
+    "weight": 0.030663,
+    "categorie_id": 1,
+    "id": 5
+  },
+  {
+    "name": "Milk",
+    "weight": 0.033022,
+    "categorie_id": 1,
+    "id": 6
+  },
+  {
+    "name": "Eggs",
+    "weight": 0.012056,
+    "categorie_id": 1,
+    "id": 7
+  },
+  {
+    "name": "Margarine",
+    "weight": 0.004845,
+    "categorie_id": 1,
+    "id": 8
+  },
+  {
+    "name": "Parmesan cheese",
+    "weight": 0.065519,
+    "categorie_id": 1,
+    "id": 9
+  },
+  {
+    "name": "Potatoes",
+    "weight": 0.029504,
+    "categorie_id": 1,
+    "id": 10
+  },
+  {
+    "name": "Bananas",
+    "weight": 0.068053,
+    "categorie_id": 1,
+    "id": 11
+  },
+  {
+    "name": "Lettuce",
+    "weight": 0.027716,
+    "categorie_id": 1,
+    "id": 12
+  },
+  {
+    "name": "Bread",
+    "weight": 0.084913,
+    "categorie_id": 1,
+    "id": 13
+  },
+  {
+    "name": "Orange juice",
+    "weight": 0.052065,
+    "categorie_id": 1,
+    "id": 14
+  },
+  {
+    "name": "Coffee",
+    "weight": 0.034944,
+    "categorie_id": 1,
+    "id": 15
+  },
+  {
+    "name": "Sugar",
+    "weight": 0.042631,
+    "categorie_id": 1,
+    "id": 16
+  },
+  {
+    "name": "Corn flakes",
+    "weight": 0.014633,
+    "categorie_id": 1,
+    "id": 17
+  },
+  {
+    "name": "Sweet peas",
+    "weight": 0.014542,
+    "categorie_id": 1,
+    "id": 18
+  },
+  {
+    "name": "Peaches",
+    "weight": 0.04962,
+    "categorie_id": 1,
+    "id": 19
+  },
+  {
+    "name": "Kleenex",
+    "weight": 0.04962,
+    "categorie_id": 1,
+    "id": 20
+  },
+  {
+    "name": "Washing powder",
+    "weight": 0.020751,
+    "categorie_id": 1,
+    "id": 21
+  },
+  {
+    "name": "Canola Oil",
+    "weight": 0.01219,
+    "categorie_id": 1,
+    "id": 22
+  },
+  {
+    "name": "Frozen Food",
+    "weight": 0.092034,
+    "categorie_id": 1,
+    "id": 23
+  },
+  {
+    "name": "Frozen corn",
+    "weight": 0.014633,
+    "categorie_id": 1,
+    "id": 24
+  },
+  {
+    "name": "Potato Chips",
+    "weight": 0.090285,
+    "categorie_id": 1,
+    "id": 25
+  },
+  {
+    "name": "Coke",
+    "weight": 0.033547,
+    "categorie_id": 1,
+    "id": 26
+  },
+  {
+    "name": "Apartment rent",
+    "weight": 0.261909,
+    "categorie_id": 2,
+    "id": 27
+  },
+  {
+    "name": "House monthly P&I payment",
+    "weight": 0.738091,
+    "categorie_id": 2,
+    "id": 28
+  },
+  {
+    "name": "New home price",
+    "weight": 0,
+    "categorie_id": 2,
+    "id": 29
+  },
+  {
+    "name": "Mortgage rates",
+    "weight": 0,
+    "categorie_id": 2,
+    "id": 30
+  },
+  {
+    "name": "Total home energy",
+    "weight": 0.582052,
+    "categorie_id": 3,
+    "id": 33
+  },
+  {
+    "name": "Telephone",
+    "weight": 0.417948,
+    "categorie_id": 3,
+    "id": 34
+  },
+  {
+    "name": "Tire balancing",
+    "weight": 0.263206,
+    "categorie_id": 4,
+    "id": 35
+  },
+  {
+    "name": "Gasoline",
+    "weight": 0.736794,
+    "categorie_id": 4,
+    "id": 36
+  },
+  {
+    "name": "Optometrist visit",
+    "weight": 0.060338,
+    "categorie_id": 5,
+    "id": 37
+  },
+  {
+    "name": "Doctor visit",
+    "weight": 0.266472,
+    "categorie_id": 5,
+    "id": 38
+  },
+  {
+    "name": "Dentist visit",
+    "weight": 0.357299,
+    "categorie_id": 5,
+    "id": 39
+  },
+  {
+    "name": "Advil",
+    "weight": 0.080092,
+    "categorie_id": 5,
+    "id": 40
+  },
+  {
+    "name": "Lipitor",
+    "weight": 0.235799,
+    "categorie_id": 5,
+    "id": 41
+  },
+  {
+    "name": "Hamburger sandwich",
+    "weight": 0.117784,
+    "categorie_id": 6,
+    "id": 42
+  },
+  {
+    "name": "Pizza",
+    "weight": 0.117784,
+    "categorie_id": 6,
+    "id": 43
+  },
+  {
+    "name": "Fried chicken",
+    "weight": 0.117784,
+    "categorie_id": 6,
+    "id": 44
+  },
+  {
+    "name": "Haircut",
+    "weight": 0.03426,
+    "categorie_id": 6,
+    "id": 45
+  },
+  {
+    "name": "Beauty salon",
+    "weight": 0.03426,
+    "categorie_id": 6,
+    "id": 46
+  },
+  {
+    "name": "Toothpaste",
+    "weight": 0.003415,
+    "categorie_id": 6,
+    "id": 47
+  },
+  {
+    "name": "Shampoo",
+    "weight": 0.005942,
+    "categorie_id": 6,
+    "id": 48
+  },
+  {
+    "name": "Dry cleaning",
+    "weight": 0.030027,
+    "categorie_id": 6,
+    "id": 49
+  },
+  {
+    "name": "Shirt",
+    "weight": 0.041069,
+    "categorie_id": 6,
+    "id": 50
+  },
+  {
+    "name": "Boy's Jeans",
+    "weight": 0.008446,
+    "categorie_id": 6,
+    "id": 51
+  },
+  {
+    "name": "Slacks",
+    "weight": 0.069082,
+    "categorie_id": 6,
+    "id": 52
+  },
+  {
+    "name": "Appliance repair",
+    "weight": 0.10554,
+    "categorie_id": 6,
+    "id": 53
+  },
+  {
+    "name": "Newspaper",
+    "weight": 0.013483,
+    "categorie_id": 6,
+    "id": 54
+  },
+  {
+    "name": "Movie",
+    "weight": 0.052344,
+    "categorie_id": 6,
+    "id": 55
+  },
+  {
+    "name": "Bowling",
+    "weight": 0.052344,
+    "categorie_id": 6,
+    "id": 56
+  },
+  {
+    "name": "Tennis balls",
+    "weight": 0.059667,
+    "categorie_id": 6,
+    "id": 57
+  },
+  {
+    "name": "Vet Services",
+    "weight": 0.074971,
+    "categorie_id": 6,
+    "id": 58
+  },
+  {
+    "name": "Beer",
+    "weight": 0.030899,
+    "categorie_id": 6,
+    "id": 59
+  },
+  {
+    "name": "Wine",
+    "weight": 0.030899,
+    "categorie_id": 6,
+    "id": 60
+  }
+]

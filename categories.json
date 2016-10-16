@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Groceries"
+  },
+  {
+    "id": 2,
+    "name": "Housing"
+  },
+  {
+    "id": 3,
+    "name": "Utilities"
+  },
+  {
+    "id": 4,
+    "name": "Transportation"
+  },
+  {
+    "id": 5,
+    "name": "Health Care"
+  },
+  {
+    "id": 6,
+    "name": "Miscellaneous"
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "name": "vegan",
+    "categorie_id": 1,
+    "item_ids": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      22,
+      24,
+      25,
+      26,
+      20,
+      21
+    ]
+  },
+  {
+    "id": 2,
+    "name": "vegitarian",
+    "categorie_id": 1,
+    "item_ids": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      22,
+      24,
+      25,
+      26,
+      6,
+      7,
+      8,
+      9,
+      20,
+      21
+    ]
+  },
+  {
+    "id": 3,
+    "name": "omnivore",
+    "categorie_id": 1,
+    "item_ids": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      22,
+      24,
+      25,
+      26,
+      6,
+      7,
+      8,
+      9,
+      1,
+      2,
+      3,
+      4,
+      5,
+      20,
+      21
+    ]
+  },
+  {
+    "id": 4,
+    "name": "renter",
+    "categorie_id": 2,
+    "item_ids": [
+      27
+    ]
+  },
+  {
+    "id": 5,
+    "name": "owner",
+    "categorie_id": 2,
+    "item_ids": [
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "id": 6,
+    "name": "driver",
+    "categorie_id": 4,
+    "item_ids": [
+      35,
+      36
+    ]
+  },
+  {
+    "id": 7,
+    "name": "rider",
+    "categorie_id": 4,
+    "item_ids": []
+  },
+  {
+    "id": 8,
+    "name": "young",
+    "categorie_id": 5,
+    "item_ids": [
+      37,
+      38,
+      39
+    ]
+  },
+  {
+    "id": 9,
+    "name": "adult",
+    "categorie_id": 5,
+    "item_ids": [
+      37,
+      38,
+      39,
+      40,
+      41
+    ]
+  }
+]
